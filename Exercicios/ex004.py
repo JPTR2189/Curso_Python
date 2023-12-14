@@ -4,6 +4,8 @@
 entrada = input("Digite Algo: ")
 capitalizada = False
 
+print('-' * 50)
+
 print(f"O tipo primitivo desse valor é {entrada.__class__}")
 print(f"Só tem espaços? {entrada.isspace()}")
 print(f"É um número? {entrada.isnumeric()}")
