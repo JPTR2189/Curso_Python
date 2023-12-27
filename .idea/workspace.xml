@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ca1a5d6-e29c-4964-97e0-0afd657bc4fd" name="Changes" comment="" />
+    <list default="true" id="0ca1a5d6-e29c-4964-97e0-0afd657bc4fd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,10 +55,13 @@
     "Python.aula13.executor": "Run",
     "Python.aula14.executor": "Run",
     "Python.aula15.executor": "Run",
+    "Python.aula16.executor": "Run",
+    "Python.aula17.executor": "Run",
     "Python.main.executor": "Debug",
     "Python.teste.py.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "aulas-python",
     "last_opened_file_path": "C:/Curso_Python/main.py",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
