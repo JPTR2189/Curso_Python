@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ca1a5d6-e29c-4964-97e0-0afd657bc4fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula21.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,36 +39,38 @@
     <option name="sortByType" value="true" />
     <option name="sortKey" value="BY_TYPE" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.aula01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula05.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula06.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula07.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula08.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula09.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula14.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula15.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula16.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula17.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula18.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula19.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.teste.py.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;aulas-python&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Curso_Python/main.py&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.aula01.executor": "Run",
+    "Python.aula02.executor": "Run",
+    "Python.aula03.executor": "Run",
+    "Python.aula04.executor": "Run",
+    "Python.aula05.executor": "Run",
+    "Python.aula06.executor": "Run",
+    "Python.aula07.executor": "Run",
+    "Python.aula08.executor": "Run",
+    "Python.aula09.executor": "Run",
+    "Python.aula10.executor": "Run",
+    "Python.aula11.executor": "Run",
+    "Python.aula12.executor": "Run",
+    "Python.aula13.executor": "Run",
+    "Python.aula14.executor": "Run",
+    "Python.aula15.executor": "Run",
+    "Python.aula16.executor": "Run",
+    "Python.aula17.executor": "Run",
+    "Python.aula18.executor": "Run",
+    "Python.aula19.executor": "Run",
+    "Python.aula20.executor": "Run",
+    "Python.aula21.executor": "Run",
+    "Python.main.executor": "Debug",
+    "Python.teste.py.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "aulas-python",
+    "last_opened_file_path": "C:/Curso_Python/main.py",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Curso_Python\excript" />
