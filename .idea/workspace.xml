@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ca1a5d6-e29c-4964-97e0-0afd657bc4fd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula22.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula23.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +62,7 @@
     "Python.aula20.executor": "Run",
     "Python.aula21.executor": "Run",
     "Python.aula22.executor": "Run",
+    "Python.aula23.executor": "Run",
     "Python.main.executor": "Debug",
     "Python.teste.py.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
