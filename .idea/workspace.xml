@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ca1a5d6-e29c-4964-97e0-0afd657bc4fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula25.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +65,7 @@
     "Python.aula22.executor": "Run",
     "Python.aula23.executor": "Run",
     "Python.aula24.executor": "Run",
+    "Python.aula25.executor": "Run",
     "Python.main.executor": "Debug",
     "Python.teste.py.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -161,6 +162,11 @@
           <url>file://$PROJECT_DIR$/excript/main.py</url>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula25.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -171,6 +177,7 @@
         <watch expression="n" language="Python" />
         <watch expression="n" language="Python" />
         <watch expression="n" language="Python" />
+        <watch expression="item" language="Python" />
       </configuration>
     </watches-manager>
   </component>
