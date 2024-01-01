@@ -7,9 +7,6 @@ for num in range(1, 101):
     if num < 2:
         continue
 
-    for n in range(2, 11):
-        atual = n
-
     if num != 2 and num % 2 == 0:
         continue
 
