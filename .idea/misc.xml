@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (k31)" project-jdk-type="Python SDK" />
+ exercicios-python
+  <component name="Black">
+    <option name="sdkName" value="k31" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="k31" project-jdk-type="Python SDK" />
 </project>
