@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+ exercicios-python
   <component name="Black">
     <option name="sdkName" value="k31" />
   </component>
