@@ -28,8 +28,8 @@
       <change afterPath="$PROJECT_DIR$/Exercicios/Tomada_de_decisao/ex015.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Exercicios/Tomada_de_decisao/ex016.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Exercicios/Tomada_de_decisao/ex017.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exercicios_Extras/ex001.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Extras/ex001.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exercicios_Extras/ex002.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Extras/ex002.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exercicios_Extras/ex003.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Extras/ex003.py" afterDir="false" />
@@ -47,6 +47,7 @@
       <change beforePath="$PROJECT_DIR$/Exercicios_Extras/ex015.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Extras/ex015.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kivy/.idea/Curso_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/kivy/.idea/Curso_Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +138,7 @@
     "Python.teste.py.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Merging aulas-python",
+    "git-widget-placeholder": "Merging main",
     "last_opened_file_path": "C:/Curso_Python/main.py",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
