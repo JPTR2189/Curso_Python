@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="Black">
     <option name="sdkName" value="Python 3.11" />
+=======
+ exercicios-python
+  <component name="Black">
+    <option name="sdkName" value="k31" />
+>>>>>>> main
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="k31" project-jdk-type="Python SDK" />
 </project>
