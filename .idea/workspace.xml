@@ -5,48 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ca1a5d6-e29c-4964-97e0-0afd657bc4fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercicios/Iteradores/ex001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Iteradores/ex002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Iteradores/ex003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Iteradores/ex004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Iteradores/ex005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Iteradores/ex006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Tomada_de_decisao/ex001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Tomada_de_decisao/ex002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Tomada_de_decisao/ex003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Tomada_de_decisao/ex004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Tomada_de_decisao/ex005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Tomada_de_decisao/ex006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Tomada_de_decisao/ex007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Tomada_de_decisao/ex008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Tomada_de_decisao/ex009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Tomada_de_decisao/ex010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Tomada_de_decisao/ex011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Tomada_de_decisao/ex012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Tomada_de_decisao/ex013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Tomada_de_decisao/ex014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Tomada_de_decisao/ex015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Tomada_de_decisao/ex016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Tomada_de_decisao/ex017.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_Extras/ex001.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Extras/ex001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_Extras/ex002.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Extras/ex002.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_Extras/ex003.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Extras/ex003.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_Extras/ex004.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Extras/ex004.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_Extras/ex005.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Extras/ex005.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_Extras/ex006.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Extras/ex006.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_Extras/ex007.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Extras/ex007.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_Extras/ex008.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Extras/ex008.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_Extras/ex009.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Extras/ex009.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_Extras/ex010.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Extras/ex010.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_Extras/ex011.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Extras/ex011.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_Extras/ex012.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Extras/ex012.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_Extras/ex013.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Extras/ex013.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_Extras/ex014.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Extras/ex014.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_Extras/ex015.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Extras/ex015.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kivy/.idea/Curso_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/kivy/.idea/Curso_Python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula53.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,11 +93,12 @@
     "Python.aula50.executor": "Run",
     "Python.aula51.executor": "Run",
     "Python.aula52.executor": "Run",
+    "Python.aula53.executor": "Run",
     "Python.main.executor": "Debug",
     "Python.teste.py.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Merging aulas-python",
+    "git-widget-placeholder": "aulas-python",
     "last_opened_file_path": "C:/Curso_Python/main.py",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
