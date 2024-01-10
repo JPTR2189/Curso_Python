@@ -1,9 +1,7 @@
-print("1")
+x = 2
+def func():
+    global x
+    x += 1
+    print(x)
 
-n = 0
-
-while n < 100:
-    n += 1
-    print(n)
-
-print("2")
+func()

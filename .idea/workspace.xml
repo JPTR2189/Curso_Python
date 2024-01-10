@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ca1a5d6-e29c-4964-97e0-0afd657bc4fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula54.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula55.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +96,8 @@
     "Python.aula52.executor": "Run",
     "Python.aula53.executor": "Run",
     "Python.aula54.executor": "Debug",
-    "Python.main.executor": "Debug",
+    "Python.aula55.executor": "Run",
+    "Python.main.executor": "Run",
     "Python.teste.py.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -188,23 +190,9 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/excript/main.py</url>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula25.py</url>
           <line>3</line>
           <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula54.py</url>
-          <line>10</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula54.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
