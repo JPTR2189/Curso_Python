@@ -1,16 +1,7 @@
-import math
+crescente = list()
+decrescente = list()
 
-def is_prime(n):
-    if n <= 1:
-        return False
-    for i in range(2, int(math.sqrt(n)) + 1):
-        if n % i == 0:
-            return False
-    return True
+string = 'arara'
 
-# Exemplo de uso:
-numero = 100
-if is_prime(numero):
-    print(f"{numero} é primo.")
-else:
-    print(f"{numero} não é primo.")
+for pos in range(len(string) -1, -1):
+    decrescente.append(string[pos])
