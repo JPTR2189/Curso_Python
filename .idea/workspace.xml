@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ca1a5d6-e29c-4964-97e0-0afd657bc4fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Curso_Python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula58.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula59.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +99,7 @@
     "Python.aula56.executor": "Run",
     "Python.aula57.executor": "Run",
     "Python.aula58.executor": "Debug",
+    "Python.aula59.executor": "Run",
     "Python.main.executor": "Run",
     "Python.teste.py.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -202,17 +200,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula58.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula58.py</url>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula58.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="28" />
+          <line>6</line>
+          <option name="timeStamp" value="29" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -232,6 +225,7 @@
         <watch expression="n" language="Python" />
         <watch expression="n" language="Python" />
         <watch expression="item" language="Python" />
+        <watch expression="n" language="Python" />
         <watch expression="n" language="Python" />
       </configuration>
     </watches-manager>
