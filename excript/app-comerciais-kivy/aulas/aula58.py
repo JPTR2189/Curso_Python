@@ -1,3 +1,4 @@
+# ESCOPO E TABELA DE SÍMBOLOS
 def func():
     f1 = "teste"
     print(__name__)
