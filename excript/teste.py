@@ -1,3 +1,5 @@
+# ARQUIVO USADO EXCLUSIVAMENTE PARA TESTES
+
 x = 2
 def func():
     global x

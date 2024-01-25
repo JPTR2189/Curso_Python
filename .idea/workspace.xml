@@ -5,9 +5,71 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ca1a5d6-e29c-4964-97e0-0afd657bc4fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula61.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula61b.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula01.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Conceito-basicos/aula01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula02.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Conceito-basicos/aula02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula03.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Conceito-basicos/aula03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula04.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Conceito-basicos/aula04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula05.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Conceito-basicos/aula05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula06.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Conceito-basicos/aula06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula07.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Conceito-basicos/aula07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula08.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Conceito-basicos/aula08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula09.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Conceito-basicos/aula09.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula10.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Conceito-basicos/aula10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula11.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Conceito-basicos/aula11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula12.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Conceito-basicos/aula12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula13.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Tomada-de-decisao/aula1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula14.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Tomada-de-decisao/aula2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula15.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Tomada-de-decisao/aula3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula16.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Operadores/aula1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula17.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Operadores/aula2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula18.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Operadores/aula3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula19.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Operadores/aula4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula20.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Iteradores/aula1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula21.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Iteradores/aula2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula22.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Iteradores/aula3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula23.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Iteradores/aula4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula24.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Iteradores/aula5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula25.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Iteradores/aula6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula26.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Iteradores/aula7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula27.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Estrutura-de-dados/aula1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula28.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Estrutura-de-dados/aula2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula29.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Estrutura-de-dados/aula3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula30.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Estrutura-de-dados/aula4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula31.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Estrutura-de-dados/aula5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula32.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Estrutura-de-dados/aula6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula33.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Estrutura-de-dados/aula7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula34.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Estrutura-de-dados/aula8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula35.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Estrutura-de-dados/aula9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula36.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Estrutura-de-dados/aula10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula37.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Estrutura-de-dados/aula11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula38.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Strings/aula1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula39.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Strings/aula2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula40.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Strings/aula3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula41.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Strings/aula4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula42.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Strings/aula5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula43.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Dicionarios/aula1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula44.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Dicionarios/aula2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula45.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Funcoes/aula1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula46.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Funcoes/aula2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula47.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Funcoes/aula3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula48.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Funcoes/aula4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula49.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Funcoes/aula5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula50.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Funcoes/aula6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula51.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Funcoes/aula7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula52.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Funcoes/aula8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula53.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Funcoes/aula9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula54.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Funcoes/aula10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula55.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Funcoes/aula11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula56.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Funcoes/aula12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula57.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Funcoes/aula13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula58.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Modulos/aula1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula59.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Modulos/aula2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula60.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Modulos/aula3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula61.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Modulos/aula4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula61b.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Modulos/aula4b.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/teste.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/teste.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,13 +173,16 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "aulas-python",
     "last_opened_file_path": "C:/Curso_Python",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Color Scheme Font"
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Curso_Python\excript" />
-      <recent name="C:\Curso_Python\excript\app-comerciais-kivy\teste" />
+      <recent name="C:\Curso_Python\excript\app-comerciais-kivy\aulas\Modulos" />
+      <recent name="C:\Curso_Python\excript\app-comerciais-kivy\aulas\Funcoes" />
+      <recent name="C:\Curso_Python\excript\app-comerciais-kivy\aulas\Dicionarios" />
+      <recent name="C:\Curso_Python\excript\app-comerciais-kivy\aulas\Strings" />
+      <recent name="C:\Curso_Python\excript\app-comerciais-kivy\aulas\Estrutura-de-dados" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -198,14 +263,9 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula25.py</url>
+          <url>file://$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Iteradores/aula6.py</url>
           <line>3</line>
           <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula60.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>

@@ -2,7 +2,7 @@
 
 # módulo main
 
-import aula61b
+import aula4b
 
 # print("O Programa acabou!")
 
