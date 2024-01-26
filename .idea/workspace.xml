@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ca1a5d6-e29c-4964-97e0-0afd657bc4fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Modulos/aula9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Modulos/aula9b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Modulos/aula10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Modulos/aula10b.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,7 @@
     "Python.aula07.executor": "Run",
     "Python.aula08.executor": "Run",
     "Python.aula09.executor": "Run",
-    "Python.aula10.executor": "Run",
+    "Python.aula10.executor": "Debug",
     "Python.aula11.executor": "Run",
     "Python.aula12.executor": "Run",
     "Python.aula13.executor": "Run",
@@ -211,6 +211,11 @@
           <url>file://$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Iteradores/aula6.py</url>
           <line>3</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Modulos/aula10.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
