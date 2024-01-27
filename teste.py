@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import math
 
 def is_prime(n):
@@ -14,3 +15,8 @@ if is_prime(numero):
     print(f"{numero} é primo.")
 else:
     print(f"{numero} não é primo.")
+=======
+# ARQUIVO USADO EXCLUSIVAMENTE PARA TESTES
+
+help(dir())
+>>>>>>> aulas-python

@@ -5,49 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ca1a5d6-e29c-4964-97e0-0afd657bc4fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercicios/Iteradores/ex001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Iteradores/ex002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Iteradores/ex003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Iteradores/ex004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Iteradores/ex005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Iteradores/ex006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Tomada_de_decisao/ex001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Tomada_de_decisao/ex002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Tomada_de_decisao/ex003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Tomada_de_decisao/ex004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Tomada_de_decisao/ex005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Tomada_de_decisao/ex006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Tomada_de_decisao/ex007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Tomada_de_decisao/ex008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Tomada_de_decisao/ex009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Tomada_de_decisao/ex010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Tomada_de_decisao/ex011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Tomada_de_decisao/ex012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Tomada_de_decisao/ex013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Tomada_de_decisao/ex014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Tomada_de_decisao/ex015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Tomada_de_decisao/ex016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Tomada_de_decisao/ex017.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Modulos/aula10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Modulos/aula10b.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_Extras/ex001.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Extras/ex001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_Extras/ex002.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Extras/ex002.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_Extras/ex003.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Extras/ex003.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_Extras/ex004.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Extras/ex004.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_Extras/ex005.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Extras/ex005.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_Extras/ex006.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Extras/ex006.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_Extras/ex007.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Extras/ex007.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_Extras/ex008.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Extras/ex008.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_Extras/ex009.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Extras/ex009.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_Extras/ex010.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Extras/ex010.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_Extras/ex011.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Extras/ex011.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_Extras/ex012.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Extras/ex012.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_Extras/ex013.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Extras/ex013.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_Extras/ex014.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Extras/ex014.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_Extras/ex015.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_Extras/ex015.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kivy/.idea/Curso_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/kivy/.idea/Curso_Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +51,7 @@
     "Python.aula07.executor": "Run",
     "Python.aula08.executor": "Run",
     "Python.aula09.executor": "Run",
-    "Python.aula10.executor": "Run",
+    "Python.aula10.executor": "Debug",
     "Python.aula11.executor": "Run",
     "Python.aula12.executor": "Run",
     "Python.aula13.executor": "Run",
@@ -131,28 +91,49 @@
     "Python.aula47.executor": "Run",
     "Python.aula48.executor": "Run",
     "Python.aula49.executor": "Run",
+    "Python.aula5.executor": "Run",
     "Python.aula50.executor": "Run",
     "Python.aula51.executor": "Run",
     "Python.aula52.executor": "Run",
-    "Python.main.executor": "Debug",
+    "Python.aula53.executor": "Run",
+    "Python.aula54.executor": "Debug",
+    "Python.aula55.executor": "Run",
+    "Python.aula56.executor": "Run",
+    "Python.aula57.executor": "Run",
+    "Python.aula58.executor": "Debug",
+    "Python.aula59.executor": "Run",
+    "Python.aula6.executor": "Run",
+    "Python.aula60.executor": "Debug",
+    "Python.aula61.executor": "Run",
+    "Python.aula61b.executor": "Run",
+    "Python.aula7.executor": "Run",
+    "Python.aula8.executor": "Run",
+    "Python.aula9.executor": "Run",
+    "Python.aula9b.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.teste.executor": "Debug",
     "Python.teste.py.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Merging main",
-    "last_opened_file_path": "C:/Curso_Python/main.py",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "aulas-python",
+    "last_opened_file_path": "C:/Curso_Python",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Curso_Python\excript" />
-      <recent name="C:\Curso_Python\excript\app-comerciais-kivy\teste" />
+      <recent name="C:\Curso_Python\excript\app-comerciais-kivy\aulas\Modulos" />
+      <recent name="C:\Curso_Python\excript\app-comerciais-kivy\aulas\Funcoes" />
+      <recent name="C:\Curso_Python\excript\app-comerciais-kivy\aulas\Dicionarios" />
+      <recent name="C:\Curso_Python\excript\app-comerciais-kivy\aulas\Strings" />
+      <recent name="C:\Curso_Python\excript\app-comerciais-kivy\aulas\Estrutura-de-dados" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-7a29c1521ef0-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.11799.298" />
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
       </set>
     </attachedChunks>
   </component>
@@ -227,15 +208,18 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/excript/main.py</url>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula25.py</url>
+          <url>file://$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Iteradores/aula6.py</url>
           <line>3</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -246,6 +230,8 @@
         <watch expression="n" language="Python" />
         <watch expression="n" language="Python" />
         <watch expression="item" language="Python" />
+        <watch expression="n" language="Python" />
+        <watch expression="n" language="Python" />
       </configuration>
     </watches-manager>
   </component>
