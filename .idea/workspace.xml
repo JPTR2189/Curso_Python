@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ca1a5d6-e29c-4964-97e0-0afd657bc4fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Excecoes/aula7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Orientacao_a_objetos_I/aula01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Orientacao_a_objetos_I/aula02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +45,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.aula01.executor": "Run",
-    "Python.aula02.executor": "Run",
+    "Python.aula02.executor": "Debug",
     "Python.aula03.executor": "Run",
     "Python.aula04.executor": "Run",
     "Python.aula05.executor": "Run",
@@ -135,7 +136,7 @@
       <recent name="C:\Curso_Python\excript\app-comerciais-kivy\aulas\Estrutura-de-dados" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.aula7">
+  <component name="RunManager">
     <configuration name="aula3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso_Python" />
       <option name="ENV_FILES" value="" />
@@ -278,6 +279,16 @@
           <url>file://$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Excecoes/aula6.py</url>
           <line>21</line>
           <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Excecoes/aula7.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Orientacao_a_objetos_I/aula02.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="29" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
