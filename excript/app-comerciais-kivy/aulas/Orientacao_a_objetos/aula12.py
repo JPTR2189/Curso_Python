@@ -1,29 +1,50 @@
+# PROPRIEDADES III
 class Retangulo:
 
     def __init__(self, largura, altura):
         self._largura = 0
         self._altura = 0
 
-        self.set_altura(altura)
-        self.set_largura(largura)
+        self.altura = altura
+        self.largura = largura
 
-    def set_altura(self, num):
+    @property
+    def altura(self):
+        return self._altura
 
-        if not (isinstance(num, int) and num > 0):
-            raise ValueError(f"Altura inválida: {num}")
-
-        self.altura = num
-
-    def set_largura(self, num):
+    @altura.setter
+    def altura(self, num):
 
         if not (isinstance(num, int) and num > 0):
+            raise ValueError(f"altura inválida: {num}")
 
-            raise ValueError(f"Largura inválida: {num}")
+        self._altura = num
 
+    @property
+    def largura(self):
+        return self._largura
 
-        self.largura = num
+    @largura.setter
+    def largura(self, num):
 
-    def get_area(self):
-        return self.altura * self.largura
+        if not (isinstance(num, int) and num > 0):
 
-r = Retangulo(largura= 5, altura= "10")
+            raise ValueError(f"largura inválida: {num}")
+
+        self._largura = num
+
+    @property
+    def area(self):
+        return self._altura * self._largura
+
+    # altura = property(fget=_get_altura, fset=_set_altura)
+    # largura = property(fget=_get_largura, fset=_set_largura)
+    # area = property(fget=_get_area)
+
+r = Retangulo(largura=5, altura=5)
+r.largura = 10
+r.altura = 15
+print(r.altura)
+print(r.largura)
+print(r.area)
+print()
