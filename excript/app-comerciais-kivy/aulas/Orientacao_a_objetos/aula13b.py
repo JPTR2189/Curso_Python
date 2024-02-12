@@ -1,3 +1,5 @@
+# OBJETO CLASSE
+
 class AAA:
     pass
 
