@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ca1a5d6-e29c-4964-97e0-0afd657bc4fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Orientacao_a_objetos/aula13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Orientacao_a_objetos/aula13b.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Orientacao_a_objetos/aula13.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/Orientacao_a_objetos/aula13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/teste.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/teste.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +59,7 @@
     "Python.aula11.executor": "Run",
     "Python.aula12.executor": "Run",
     "Python.aula13.executor": "Run",
+    "Python.aula13b.executor": "Debug",
     "Python.aula14.executor": "Run",
     "Python.aula15.executor": "Run",
     "Python.aula16.executor": "Run",
@@ -116,7 +119,7 @@
     "Python.aula9.executor": "Run",
     "Python.aula9b.executor": "Run",
     "Python.main.executor": "Run",
-    "Python.teste.executor": "Debug",
+    "Python.teste.executor": "Run",
     "Python.teste.py.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -286,6 +289,9 @@
         <watch expression="item" language="Python" />
         <watch expression="n" language="Python" />
         <watch expression="n" language="Python" />
+        <watch expression="AAA.var_cls" language="Python" />
+        <watch expression="bbb.var_cls" language="Python" />
+        <watch expression="AAA.var_cls is bbb.var_cls" language="Python" />
       </configuration>
     </watches-manager>
   </component>
