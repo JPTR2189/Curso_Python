@@ -9,4 +9,3 @@ if palavra[0:5] == "SANTO":
 else:
     print('-' * 30)
     print("A cidade que você nasceu NÃO começa com o nome santo")
-    
