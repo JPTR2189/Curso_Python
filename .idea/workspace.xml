@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ca1a5d6-e29c-4964-97e0-0afd657bc4fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kivy/source/003_widgets/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kivy/source/004_entrada_de_dados/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
