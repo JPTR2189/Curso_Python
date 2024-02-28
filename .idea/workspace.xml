@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ca1a5d6-e29c-4964-97e0-0afd657bc4fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kivy/source/006_orientacao_a_objetos/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kivy/source/kvlang-e-widgets/hello.kv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kivy/source/kvlang-e-widgets/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kivy/source/001_hello_world/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/kivy/source/aulas/001_hello_world/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kivy/source/002_imprimindo_textos/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/kivy/source/aulas/002_imprimindo_textos/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kivy/source/003_widgets/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/kivy/source/aulas/003_widgets/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kivy/source/004_entrada_de_dados/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/kivy/source/aulas/004_entrada_de_dados/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kivy/source/005_primeira_aplicacao/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/kivy/source/aulas/005_primeira_aplicacao/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kivy/source/006_orientacao_a_objetos/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/kivy/source/aulas/006_orientacao_a_objetos/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,11 +141,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Curso_Python\kivy\source\aulas" />
       <recent name="C:\Curso_Python\excript\app-comerciais-kivy\aulas\Modulos" />
       <recent name="C:\Curso_Python\excript\app-comerciais-kivy\aulas\Funcoes" />
       <recent name="C:\Curso_Python\excript\app-comerciais-kivy\aulas\Dicionarios" />
       <recent name="C:\Curso_Python\excript\app-comerciais-kivy\aulas\Strings" />
-      <recent name="C:\Curso_Python\excript\app-comerciais-kivy\aulas\Estrutura-de-dados" />
     </key>
   </component>
   <component name="SharedIndexes">
