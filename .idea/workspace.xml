@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ca1a5d6-e29c-4964-97e0-0afd657bc4fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kivy/source/kvlang-e-widgets/002_propriedades_de_medida/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kivy/source/kvlang-e-widgets/002_propriedades_de_medida/medida.kv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kivy/source/kvlang-e-widgets/hello.kv" beforeDir="false" afterPath="$PROJECT_DIR$/kivy/source/kvlang-e-widgets/001_hello_world_kvlang/hello.kv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kivy/source/kvlang-e-widgets/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/kivy/source/kvlang-e-widgets/001_hello_world_kvlang/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="0ca1a5d6-e29c-4964-97e0-0afd657bc4fd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
